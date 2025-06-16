@@ -1,26 +1,41 @@
-# Lenovo Clearance Reports - Interactive Dashboard
+# Lenovo Clearance Dashboard V2 Enhanced - Detailed Overview
 
 🎯 **Live Dashboard:** [rottenpika.github.io/lenovo-clearance-reports](https://rottenpika.github.io/lenovo-clearance-reports/)
 
-## 🚀 Features
+## 🚀 Enhanced Features in V2
 
-- 📊 **Interaktive Datentabellen** mit Sortierung, Filterung und Suche
-- 📱 **Responsive Design** für Desktop und Mobile
-- 🔄 **Automatische Updates** alle 5 Minuten
-- 📈 **Multi-Sheet Ansicht** (Neue, Geänderte, Entfernte Artikel)
-- ⚡ **Moderne Web-Technologie** ohne Downloads nötig
+### 📊 Instant Change Overview
+- **No clicks needed** - See all changes immediately on page load
+- **Quick stats** - New items, removed items, changed items, price drops at a glance
+- **Clickable stats** - Click on numbers to jump to detailed sections
 
-## 📊 Aktuelle Statistiken
+### ✨ Enhanced Highlights Section
+- 📉 **Biggest Price Drops** - Top price reductions with percentages
+- 💰 **Cheap Deals** - All items under 20€ 
+- ❌ **Removed Deals** - Good deals that are no longer available
+- 📈 **Stock Increases** - Items with significant quantity increases
 
-- **2 Reports** verfügbar
-- **Letztes Update:** 16.06.2025 08:21:28
-- **Monitoring:** 24/7 aktiv
+### 🔍 Detailed Sections
+- **Concrete Item Lists** - See exactly which items changed
+- **Full Details** - Part numbers, categories, prices, quantities
+- **Change Indicators** - Clear visualization of what changed
+- **Searchable & Filterable** - Find specific items quickly
 
-## 🎯 Überwachte Kategorien
+### 📱 Enhanced User Experience  
+- **Mobile Responsive** - Works perfectly on all devices
+- **Smooth Navigation** - Click stats to jump to details
+- **Truncated Text** - Long descriptions don't break layout
+- **Visual Categories** - Color-coded sections for easy scanning
 
-- 💥 **Video Cards unter 20€** (Sofort-Benachrichtigung)
-- 📉 **Dramatische Preisfälle** (>100€ → <20€)
-- 🔄 **Alle Änderungen** im Lenovo Clearance Sale
+### 📈 Statistics
+- **2 Reports** tracked
+- **Last Update:** 16.06.2025 08:31:29
+- **Monitoring:** Active 24/7
+
+## 🎯 What You See Now
+- **Concrete Articles** - Not just numbers, but actual items
+- **What Changed** - Price changes, quantity changes, removals
+- **Why It Matters** - Highlights focus on deals and opportunities
 
 ---
-*Powered by: Lenovo Clearance Monitor | Automatisch generiert*
+*Powered by Lenovo Clearance Monitor V2 Enhanced*

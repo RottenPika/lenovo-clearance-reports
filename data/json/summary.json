@@ -4,20 +4,418 @@
     "latest_timestamp": "2025-06-16_073913",
     "previous_report": "changes_2025-06-16_073423.xlsx",
     "previous_timestamp": "2025-06-16_073423",
-    "generated_at": "2025-06-16T08:19:57.739787"
+    "generated_at": "2025-06-16T08:31:29.224559"
   },
   "quick_stats": {
     "new_items": 0,
     "removed_items": 13,
     "changed_items": 19,
     "price_drops": 0,
-    "price_increases": 19,
+    "price_increases": 0,
     "total_items_current": 19
   },
   "highlights": {
     "biggest_price_drops": [],
     "new_video_cards": [],
     "dramatic_drops": [],
-    "removed_deals": []
+    "removed_deals": [
+      {
+        "teilenummer": "00NY436",
+        "name": "Lenovo DISPLAY BOE 14.0 FHD IPS AG 2.4t",
+        "category": "LCD PANELS",
+        "price": "15,26€",
+        "price_num": 15.26,
+        "quantity": 2
+      },
+      {
+        "teilenummer": "02DL766",
+        "name": "Lenovo DISPLAY 15.6FHDIPSAG250 45% VESBkt INX",
+        "category": "LCD PANELS",
+        "price": "15,28€",
+        "price_num": 15.28,
+        "quantity": 1
+      },
+      {
+        "teilenummer": "5D50X49578",
+        "name": "ThinkPad TrackPoint Tastatur, Italienisch",
+        "category": "KEYBOARDS EXTERNAL",
+        "price": "15,29€",
+        "price_num": 15.29,
+        "quantity": 3
+      },
+      {
+        "teilenummer": "00XH850",
+        "name": "Tastatur_Maus, Kabellos, Englisch (GB), silber",
+        "category": "KEYBOARDS EXTERNAL",
+        "price": "15,30€",
+        "price_num": 15.3,
+        "quantity": 1
+      },
+      {
+        "teilenummer": "5D51C33851",
+        "name": "Lenovo Go Split Kabellose Tastatur, Deutsch",
+        "category": "KEYBOARDS EXTERNAL",
+        "price": "15,32€",
+        "price_num": 15.32,
+        "quantity": 1
+      },
+      {
+        "teilenummer": "02HM735",
+        "name": "C-Cover with keyboard,German,Backlight",
+        "category": "C-cover with keyboard",
+        "price": "15,33€",
+        "price_num": 15.33,
+        "quantity": 1
+      },
+      {
+        "teilenummer": "5D10V82381",
+        "name": "Lenovo DISPLAY, 16\", UHD, Non-Touch, matt, 600 cd/m²",
+        "category": "LCD PANELS",
+        "price": "15,55€",
+        "price_num": 15.55,
+        "quantity": 3
+      }
+    ],
+    "cheap_deals": [],
+    "quantity_increases": []
+  },
+  "details": {
+    "removed_items": [
+      {
+        "teilenummer": "00HT355",
+        "name": "WIN,i7-5500,TPM,8GB",
+        "category": "SYSTEM BOARDS",
+        "price": "46,49€",
+        "price_num": 46.49,
+        "quantity": 1
+      },
+      {
+        "teilenummer": "00NY436",
+        "name": "Lenovo DISPLAY BOE 14.0 FHD IPS AG 2.4t",
+        "category": "LCD PANELS",
+        "price": "15,26€",
+        "price_num": 15.26,
+        "quantity": 2
+      },
+      {
+        "teilenummer": "00XH850",
+        "name": "Tastatur_Maus, Kabellos, Englisch (GB), silber",
+        "category": "KEYBOARDS EXTERNAL",
+        "price": "15,30€",
+        "price_num": 15.3,
+        "quantity": 1
+      },
+      {
+        "teilenummer": "01AV306",
+        "name": "WIN, i7-6700HQ, Y-TPM, RAID",
+        "category": "SYSTEM BOARDS",
+        "price": "48,18€",
+        "price_num": 48.18,
+        "quantity": 1
+      },
+      {
+        "teilenummer": "01YT361",
+        "name": "NOK,i5-8265U,16GB,D-TPM,UMA",
+        "category": "SYSTEM BOARDS",
+        "price": "46,15€",
+        "price_num": 46.15,
+        "quantity": 1
+      },
+      {
+        "teilenummer": "02DL766",
+        "name": "Lenovo DISPLAY 15.6FHDIPSAG250 45% VESBkt INX",
+        "category": "LCD PANELS",
+        "price": "15,28€",
+        "price_num": 15.28,
+        "quantity": 1
+      },
+      {
+        "teilenummer": "02HM735",
+        "name": "C-Cover with keyboard,German,Backlight",
+        "category": "C-cover with keyboard",
+        "price": "15,33€",
+        "price_num": 15.33,
+        "quantity": 1
+      },
+      {
+        "teilenummer": "5B20W77624",
+        "name": "Lenovo BDPLANAR R7 PRO 4750U WIN,YD,YT,dT,nAB",
+        "category": "SYSTEM BOARDS",
+        "price": "46,20€",
+        "price_num": 46.2,
+        "quantity": 1
+      },
+      {
+        "teilenummer": "5B21D93086",
+        "name": "Lenovo BDPLANAR i711800HT600AX201vPNNAYdTYAB",
+        "category": "SYSTEM BOARDS",
+        "price": "45,86€",
+        "price_num": 45.86,
+        "quantity": 3
+      },
+      {
+        "teilenummer": "5D10S39791",
+        "name": "Lenovo LCD-Modul, 14\", WQXGA+, Multitouch, Glänzend, OLED, 400 cd/m²",
+        "category": "LCD ASSEMBLIES",
+        "price": "30,40€",
+        "price_num": 30.4,
+        "quantity": 2
+      },
+      {
+        "teilenummer": "5D10V82381",
+        "name": "Lenovo DISPLAY, 16\", UHD, Non-Touch, matt, 600 cd/m²",
+        "category": "LCD PANELS",
+        "price": "15,55€",
+        "price_num": 15.55,
+        "quantity": 3
+      },
+      {
+        "teilenummer": "5D50X49578",
+        "name": "ThinkPad TrackPoint Tastatur, Italienisch",
+        "category": "KEYBOARDS EXTERNAL",
+        "price": "15,29€",
+        "price_num": 15.29,
+        "quantity": 3
+      },
+      {
+        "teilenummer": "5D51C33851",
+        "name": "Lenovo Go Split Kabellose Tastatur, Deutsch",
+        "category": "KEYBOARDS EXTERNAL",
+        "price": "15,32€",
+        "price_num": 15.32,
+        "quantity": 1
+      }
+    ],
+    "changed_items": [
+      {
+        "teilenummer": "01YR210",
+        "name": "WIN, i7-8550U, 16 GB, TPM2",
+        "category": "SYSTEM BOARDS",
+        "changes": {
+          "quantity": {
+            "old": 102,
+            "new": 101,
+            "change": -1
+          }
+        }
+      },
+      {
+        "teilenummer": "01YR215",
+        "name": "WIN, i5-8350U, 16 GB, AMT, TPM2, vPro",
+        "category": "SYSTEM BOARDS",
+        "changes": {
+          "quantity": {
+            "old": 14,
+            "new": 13,
+            "change": -1
+          }
+        }
+      },
+      {
+        "teilenummer": "00PC743",
+        "name": "FRU, 100-240 V Wechselstrom, 500 W 92 % PSU",
+        "category": "POWER SUPPLIES INTERNAL",
+        "changes": {
+          "quantity": {
+            "old": 17,
+            "new": 19,
+            "change": 2
+          }
+        }
+      },
+      {
+        "teilenummer": "5B21C73631",
+        "name": "BDPLANAR MBC82K1 NOKI511300H_GTX1650 RM",
+        "category": "SYSTEM BOARDS",
+        "changes": {
+          "quantity": {
+            "old": 13,
+            "new": 8,
+            "change": -5
+          }
+        }
+      },
+      {
+        "teilenummer": "5M30Z71653",
+        "name": "Lenovo ARBEITSSPEICHER,8G,DDR4,3600,UDIMM,KINGSTON",
+        "category": "MEMORY",
+        "changes": {
+          "quantity": {
+            "old": 3,
+            "new": 1,
+            "change": -2
+          }
+        }
+      },
+      {
+        "teilenummer": "5B20Z45925",
+        "name": "Lenovo BDPLANAR i7-10510U8GUHDNvPNOKNAYTdT2L3yA",
+        "category": "SYSTEM BOARDS",
+        "changes": {
+          "quantity": {
+            "old": 7,
+            "new": 5,
+            "change": -2
+          }
+        }
+      },
+      {
+        "teilenummer": "01YT397",
+        "name": "Drift-1, Ironhide-1 FRU: Planar i5-8365U, vPRO, 8 GB, Intel:AMT=Y, TPM=Y(HW), dTPM=2.0, OS=WIN",
+        "category": "SYSTEM BOARDS",
+        "changes": {
+          "quantity": {
+            "old": 56,
+            "new": 55,
+            "change": -1
+          }
+        }
+      },
+      {
+        "teilenummer": "5CB0S16761",
+        "name": "C-Abdeckung mit Tastatur, USA – Englisch, Ohne_Hintergrundbeleuchtung",
+        "category": "C-cover with keyboard",
+        "changes": {
+          "quantity": {
+            "old": 30,
+            "new": 29,
+            "change": -1
+          }
+        }
+      },
+      {
+        "teilenummer": "5D51C33859",
+        "name": "Lenovo Go Split Kabellose Tastatur, Norwegisch",
+        "category": "KEYBOARDS EXTERNAL",
+        "changes": {
+          "quantity": {
+            "old": 3,
+            "new": 1,
+            "change": -2
+          }
+        }
+      },
+      {
+        "teilenummer": "5W10V25790",
+        "name": "WIRELESS Drahtlos, CMB, FBC, L860 V2 FW",
+        "category": "WIRELESS WAN ADAPTERS",
+        "changes": {
+          "quantity": {
+            "old": 35,
+            "new": 34,
+            "change": -1
+          }
+        }
+      },
+      {
+        "teilenummer": "01AX504",
+        "name": "Windu Tastatur, IT, CHY BL",
+        "category": "KEYBOARDS INTERNAL",
+        "changes": {
+          "quantity": {
+            "old": 12,
+            "new": 11,
+            "change": -1
+          }
+        }
+      },
+      {
+        "teilenummer": "01HW921",
+        "name": "6.5mm,active pen,BK,Wacom",
+        "category": "POINTING DEVICES",
+        "changes": {
+          "quantity": {
+            "old": 2,
+            "new": 1,
+            "change": -1
+          }
+        }
+      },
+      {
+        "teilenummer": "01YT418",
+        "name": "NOK7-8665,16G,vPROAMT,TPM2,SWG",
+        "category": "SYSTEM BOARDS",
+        "changes": {
+          "quantity": {
+            "old": 5,
+            "new": 4,
+            "change": -1
+          }
+        }
+      },
+      {
+        "teilenummer": "02HM956",
+        "name": "i7-9750H,N18PG0,NOK,dTPM",
+        "category": "SYSTEM BOARDS",
+        "changes": {
+          "quantity": {
+            "old": 3,
+            "new": 2,
+            "change": -1
+          }
+        }
+      },
+      {
+        "teilenummer": "5B20S41727",
+        "name": "MBL81MVMBWINI58265U_UMA_0G",
+        "category": "SYSTEM BOARDS",
+        "changes": {
+          "quantity": {
+            "old": 6,
+            "new": 5,
+            "change": -1
+          }
+        }
+      },
+      {
+        "teilenummer": "5B20W29465",
+        "name": "Lenovo BDPLANAR WIN7-8665,16G,vPROAMT,TPM2,UMA",
+        "category": "SYSTEM BOARDS",
+        "changes": {
+          "quantity": {
+            "old": 2,
+            "new": 1,
+            "change": -1
+          }
+        }
+      },
+      {
+        "teilenummer": "5B20Z45987",
+        "name": "Lenovo BDPLANAR i5-10310U 8GUHD VPWIN YAYTdT2nA",
+        "category": "SYSTEM BOARDS",
+        "changes": {
+          "quantity": {
+            "old": 2,
+            "new": 1,
+            "change": -1
+          }
+        }
+      },
+      {
+        "teilenummer": "5B21D65197",
+        "name": "i7-1165G7 16G 201NOK NAYdTL3yAB",
+        "category": "SYSTEM BOARDS",
+        "changes": {
+          "quantity": {
+            "old": 3,
+            "new": 2,
+            "change": -1
+          }
+        }
+      },
+      {
+        "teilenummer": "5B21K59829",
+        "name": "i7-1165G7 MX450,WIN,FTPM,N-ABS",
+        "category": "SYSTEM BOARDS",
+        "changes": {
+          "quantity": {
+            "old": 2,
+            "new": 1,
+            "change": -1
+          }
+        }
+      }
+    ],
+    "new_items": []
   }
 }
