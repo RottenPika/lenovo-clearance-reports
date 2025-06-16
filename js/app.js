@@ -68,7 +68,7 @@ class LenovoDashboard {
             
             this.currentData = await response.json();
             this.createSheetTabs();
-            this.showSheet(Object.keys(this.currentData.data)[0]); // Show first sheet
+            this.showSheet(Object.keys(this.currentData.data)[0], null); // Show first sheet
             
         } catch (error) {
             this.showError('Fehler beim Laden des Reports: ' + error.message);
@@ -83,15 +83,24 @@ class LenovoDashboard {
             const tab = document.createElement('button');
             tab.className = 'tab' + (index === 0 ? ' active' : '');
             tab.textContent = `📋 ${sheetName} (${this.currentData.data[sheetName].count})`;
-            tab.onclick = () => this.showSheet(sheetName);
+            tab.onclick = (e) => this.showSheet(sheetName, e);
             tabsContainer.appendChild(tab);
         });
     }
     
-    showSheet(sheetName) {
+    showSheet(sheetName, clickEvent) {
         // Update active tab
         document.querySelectorAll('.tab').forEach(tab => tab.classList.remove('active'));
-        event.target.classList.add('active');
+        if (clickEvent && clickEvent.target) {
+            clickEvent.target.classList.add('active');
+        } else {
+            // Find and activate the correct tab by content
+            document.querySelectorAll('.tab').forEach(tab => {
+                if (tab.textContent.includes(sheetName)) {
+                    tab.classList.add('active');
+                }
+            });
+        }
         
         const sheetData = this.currentData.data[sheetName];
         document.getElementById('current-items').textContent = sheetData.count;
