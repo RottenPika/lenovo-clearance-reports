@@ -1,16 +1,16 @@
-# Lenovo Clearance Dashboard V2 Enhanced with Notifications
+# Lenovo Clearance Dashboard V2 Final - Smart Notifications
 
 🎯 **Live Dashboard:** [rottenpika.github.io/lenovo-clearance-reports](https://rottenpika.github.io/lenovo-clearance-reports/)
 
-## 🚀 Enhanced Features in V2
+## 🚀 Final Features
 
 ### 📊 Instant Change Overview
 - **No clicks needed** - See all changes immediately on page load
 - **Quick stats** - New items, removed items, changed items, price drops at a glance
 - **Clickable stats** - Click on numbers to jump to detailed sections
 
-### 🔔 Telegram Notifications
-- **Automatic alerts** when dashboard is updated
+### 🔔 Smart Telegram Notifications
+- **Only when changes occur** - No spam notifications
 - **Summary of changes** with key highlights
 - **Direct links** to view details on website
 - **Top deals** included in notifications
@@ -29,14 +29,14 @@
 
 ### 📈 Statistics
 - **2 Reports** tracked
-- **Last Update:** 16.06.2025 08:44:41
-- **Monitoring:** Active 24/7 with notifications
+- **Last Update:** 16.06.2025 09:40:43
+- **Monitoring:** Active 24/7 with smart notifications
 
 ## 🎯 What You Get
 - **Dashboard Updates** - See changes instantly
-- **Telegram Alerts** - Know when something new happens
+- **Smart Alerts** - Only when something actually changes
 - **Concrete Details** - Not just numbers, but actual items
-- **Smart Highlights** - Focus on deals and opportunities
+- **Zero Spam** - No unnecessary notifications
 
 ---
-*Powered by Lenovo Clearance Monitor V2 Enhanced with Notifications*
+*Powered by Lenovo Clearance Monitor V2 Final - Smart Notifications*
