@@ -1,22 +1,26 @@
-# Lenovo Clearance Sale Reports
+# Lenovo Clearance Reports - Interactive Dashboard
 
-Automatisch generierte Berichte über Änderungen im Lenovo Clearance Sale.
+🎯 **Live Dashboard:** [rottenpika.github.io/lenovo-clearance-reports](https://rottenpika.github.io/lenovo-clearance-reports/)
 
-## 🔗 Zugriff auf Reports
+## 🚀 Features
 
-**[📊 Webansicht der Reports](https://rottenpika.github.io/lenovo-clearance-reports/)**
+- 📊 **Interaktive Datentabellen** mit Sortierung, Filterung und Suche
+- 📱 **Responsive Design** für Desktop und Mobile
+- 🔄 **Automatische Updates** alle 5 Minuten
+- 📈 **Multi-Sheet Ansicht** (Neue, Geänderte, Entfernte Artikel)
+- ⚡ **Moderne Web-Technologie** ohne Downloads nötig
 
-## 📋 Verfügbare Reports
+## 📊 Aktuelle Statistiken
 
-1 Reports verfügbar. Letztes Update: 15.06.2025 14:12:58
+- **1 Reports** verfügbar
+- **Letztes Update:** 16.06.2025 07:38:24
+- **Monitoring:** 24/7 aktiv
 
-## 📊 Was enthalten die Reports?
+## 🎯 Überwachte Kategorien
 
-Jeder Report (Excel-Datei) enthält drei Sheets:
-- **Neue Artikel**: Neu hinzugefügte Clearance-Artikel
-- **Entfernte Artikel**: Nicht mehr verfügbare Artikel  
-- **Geänderte Artikel**: Artikel mit Preis- oder Mengenänderungen
+- 💥 **Video Cards unter 20€** (Sofort-Benachrichtigung)
+- 📉 **Dramatische Preisfälle** (>100€ → <20€)
+- 🔄 **Alle Änderungen** im Lenovo Clearance Sale
 
-## 🤖 Automatisierung
-
-Diese Reports werden automatisch generiert durch den Lenovo Clearance Monitor.
+---
+*Powered by: Lenovo Clearance Monitor | Automatisch generiert*
