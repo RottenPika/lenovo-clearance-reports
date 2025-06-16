@@ -1,0 +1,395 @@
+{
+  "metadata": {
+    "filename": "changes_2025-06-16_073913.xlsx",
+    "timestamp": "2025-06-16_073913",
+    "generated": "2025-06-16T07:39:16.244639",
+    "sheets": [
+      "Entfernte Artikel",
+      "Geänderte Artikel"
+    ]
+  },
+  "data": {
+    "Entfernte Artikel": {
+      "count": 13,
+      "columns": [
+        "Teilenummer",
+        "Beschreibung",
+        "Warenart",
+        "Preis",
+        "Verfügbare Menge",
+        "Kompatibilität"
+      ],
+      "records": [
+        {
+          "Teilenummer": "00HT355",
+          "Beschreibung": "WIN,i7-5500,TPM,8GB",
+          "Warenart": "SYSTEM BOARDS",
+          "Preis": "46,49€",
+          "Verfügbare Menge": 1,
+          "Kompatibilität": "X1 Carbon 3rd Gen (Type 20BS, 20BT) Laptop (ThinkPad) : 20BT"
+        },
+        {
+          "Teilenummer": "00NY436",
+          "Beschreibung": "Lenovo DISPLAY BOE 14.0 FHD IPS AG 2.4t",
+          "Warenart": "LCD PANELS",
+          "Preis": "15,26€",
+          "Verfügbare Menge": 2,
+          "Kompatibilität": "X1 Carbon 5th Gen - Kabylake (Type 20HR, 20HQ) Laptop (ThinkPad) : 20HR"
+        },
+        {
+          "Teilenummer": "00XH850",
+          "Beschreibung": "Tastatur_Maus, Kabellos, Englisch (GB), silber",
+          "Warenart": "KEYBOARDS EXTERNAL",
+          "Preis": "15,30€",
+          "Verfügbare Menge": 1,
+          "Kompatibilität": "510-15ABR Desktop (ideacentre) : 90G7\nAIO 520-27IKL All-in-One (ideacentre) : F0D0\nAIO 520-24IKL All-in-One (ideacentre) : F0D1\nAIO 520-24IKU All-in-One (ideacentre) : F0D2\nAIO 520-22IKL All-in-One (ideacentre) : F0D4\nAIO 520-22AST All-in-One (ideacentre) : F0D6\nAIO 520-27ICB All-in-One (ideacentre) : F0DE\nAIO 520-24ICB All-in-One (ideacentre) : F0DJ\nA340-24IWL All-in-One (ideacentre) : F0E8"
+        },
+        {
+          "Teilenummer": "01AV306",
+          "Beschreibung": "WIN, i7-6700HQ, Y-TPM, RAID",
+          "Warenart": "SYSTEM BOARDS",
+          "Preis": "48,18€",
+          "Verfügbare Menge": 1,
+          "Kompatibilität": "P70 Laptop (ThinkPad) : 20ER, 20ES"
+        },
+        {
+          "Teilenummer": "01YT361",
+          "Beschreibung": "NOK,i5-8265U,16GB,D-TPM,UMA",
+          "Warenart": "SYSTEM BOARDS",
+          "Preis": "46,15€",
+          "Verfügbare Menge": 1,
+          "Kompatibilität": NaN
+        },
+        {
+          "Teilenummer": "02DL766",
+          "Beschreibung": "Lenovo DISPLAY 15.6FHDIPSAG250 45% VESBkt INX",
+          "Warenart": "LCD PANELS",
+          "Preis": "15,28€",
+          "Verfügbare Menge": 1,
+          "Kompatibilität": NaN
+        },
+        {
+          "Teilenummer": "02HM735",
+          "Beschreibung": "C-Cover with keyboard,German,Backlight",
+          "Warenart": "C-cover with keyboard",
+          "Preis": "15,33€",
+          "Verfügbare Menge": 1,
+          "Kompatibilität": NaN
+        },
+        {
+          "Teilenummer": "5B20W77624",
+          "Beschreibung": "Lenovo BDPLANAR R7 PRO 4750U WIN,YD,YT,dT,nAB",
+          "Warenart": "SYSTEM BOARDS",
+          "Preis": "46,20€",
+          "Verfügbare Menge": 1,
+          "Kompatibilität": "L14 (type 20U5, 20U6) Laptops (ThinkPad) : 20U5, 20U6\nL15 (type 20U7, 20U8) Laptop (ThinkPad) : 20U7, 20U8"
+        },
+        {
+          "Teilenummer": "5B21D93086",
+          "Beschreibung": "Lenovo BDPLANAR i711800HT600AX201vPNNAYdTYAB",
+          "Warenart": "SYSTEM BOARDS",
+          "Preis": "45,86€",
+          "Verfügbare Menge": 3,
+          "Kompatibilität": "P15v Gen 2 (type 21A9, 21AA) Laptops (ThinkPad) : 21A9, 21AA"
+        },
+        {
+          "Teilenummer": "5D10S39791",
+          "Beschreibung": "Lenovo LCD-Modul, 14\", WQXGA+, Multitouch, Glänzend, OLED, 400 cd/m²",
+          "Warenart": "LCD ASSEMBLIES",
+          "Preis": "30,40€",
+          "Verfügbare Menge": 2,
+          "Kompatibilität": "IdeaPad Flex 5 14IAU7 Laptop : 82R7"
+        },
+        {
+          "Teilenummer": "5D10V82381",
+          "Beschreibung": "Lenovo DISPLAY, 16\", UHD, Non-Touch, matt, 600 cd/m²",
+          "Warenart": "LCD PANELS",
+          "Preis": "15,55€",
+          "Verfügbare Menge": 3,
+          "Kompatibilität": "P1 Gen 4 (type 20Y3, 20Y4 ) Laptop (ThinkPad) : 20Y4\nX1 Extreme 4th Gen (Type 20Y5, 20Y6) Laptop (ThinkPad) : 20Y6"
+        },
+        {
+          "Teilenummer": "5D50X49578",
+          "Beschreibung": "ThinkPad TrackPoint Tastatur, Italienisch",
+          "Warenart": "KEYBOARDS EXTERNAL",
+          "Preis": "15,29€",
+          "Verfügbare Menge": 3,
+          "Kompatibilität": NaN
+        },
+        {
+          "Teilenummer": "5D51C33851",
+          "Beschreibung": "Lenovo Go Split Kabellose Tastatur, Deutsch",
+          "Warenart": "KEYBOARDS EXTERNAL",
+          "Preis": "15,32€",
+          "Verfügbare Menge": 1,
+          "Kompatibilität": NaN
+        }
+      ]
+    },
+    "Geänderte Artikel": {
+      "count": 19,
+      "columns": [
+        "Teilenummer",
+        "Beschreibung_alt",
+        "Warenart_alt",
+        "Preis_alt",
+        "Verfügbare Menge_alt",
+        "Kompatibilität_alt",
+        "Beschreibung_neu",
+        "Warenart_neu",
+        "Preis_neu",
+        "Verfügbare Menge_neu",
+        "Kompatibilität_neu"
+      ],
+      "records": [
+        {
+          "Teilenummer": "01YR210",
+          "Beschreibung_alt": "WIN, i7-8550U, 16 GB, TPM2",
+          "Warenart_alt": "SYSTEM BOARDS",
+          "Preis_alt": "47,86€",
+          "Verfügbare Menge_alt": 102,
+          "Kompatibilität_alt": "X1 Carbon 6th Gen - (Type 20KH, 20KG) Laptop (ThinkPad) : 20KG, 20KH",
+          "Beschreibung_neu": "WIN, i7-8550U, 16 GB, TPM2",
+          "Warenart_neu": "SYSTEM BOARDS",
+          "Preis_neu": "47,86€",
+          "Verfügbare Menge_neu": 101,
+          "Kompatibilität_neu": "X1 Carbon 6th Gen - (Type 20KH, 20KG) Laptop (ThinkPad) : 20KG, 20KH"
+        },
+        {
+          "Teilenummer": "01YR215",
+          "Beschreibung_alt": "WIN, i5-8350U, 16 GB, AMT, TPM2, vPro",
+          "Warenart_alt": "SYSTEM BOARDS",
+          "Preis_alt": "47,99€",
+          "Verfügbare Menge_alt": 14,
+          "Kompatibilität_alt": "X1 Carbon 6th Gen - (Type 20KH, 20KG) Laptop (ThinkPad) : 20KG, 20KH",
+          "Beschreibung_neu": "WIN, i5-8350U, 16 GB, AMT, TPM2, vPro",
+          "Warenart_neu": "SYSTEM BOARDS",
+          "Preis_neu": "47,99€",
+          "Verfügbare Menge_neu": 13,
+          "Kompatibilität_neu": "X1 Carbon 6th Gen - (Type 20KH, 20KG) Laptop (ThinkPad) : 20KG, 20KH"
+        },
+        {
+          "Teilenummer": "00PC743",
+          "Beschreibung_alt": "FRU, 100-240 V Wechselstrom, 500 W 92 % PSU",
+          "Warenart_alt": "POWER SUPPLIES INTERNAL",
+          "Preis_alt": "14,67€",
+          "Verfügbare Menge_alt": 17,
+          "Kompatibilität_alt": "P520c Workstation (ThinkStation) : 30BX, 30BY, 30C0",
+          "Beschreibung_neu": "FRU, 100-240 V Wechselstrom, 500 W 92 % PSU",
+          "Warenart_neu": "POWER SUPPLIES INTERNAL",
+          "Preis_neu": "14,67€",
+          "Verfügbare Menge_neu": 19,
+          "Kompatibilität_neu": "P520c Workstation (ThinkStation) : 30BX, 30BY, 30C0"
+        },
+        {
+          "Teilenummer": "5B21C73631",
+          "Beschreibung_alt": "BDPLANAR MBC82K1 NOKI511300H_GTX1650 RM",
+          "Warenart_alt": "SYSTEM BOARDS",
+          "Preis_alt": "46,23€",
+          "Verfügbare Menge_alt": 13,
+          "Kompatibilität_alt": "IdeaPad Gaming 3-15IHU6 : 82K1",
+          "Beschreibung_neu": "BDPLANAR MBC82K1 NOKI511300H_GTX1650 RM",
+          "Warenart_neu": "SYSTEM BOARDS",
+          "Preis_neu": "46,23€",
+          "Verfügbare Menge_neu": 8,
+          "Kompatibilität_neu": "IdeaPad Gaming 3-15IHU6 : 82K1"
+        },
+        {
+          "Teilenummer": "5M30Z71653",
+          "Beschreibung_alt": "Lenovo ARBEITSSPEICHER,8G,DDR4,3600,UDIMM,KINGSTON",
+          "Warenart_alt": "MEMORY",
+          "Preis_alt": "14,20€",
+          "Verfügbare Menge_alt": 3,
+          "Kompatibilität_alt": "Legion T7-34IMZ5 Desktop (Lenovo) : 90Q8, 90Q9",
+          "Beschreibung_neu": "Lenovo ARBEITSSPEICHER,8G,DDR4,3600,UDIMM,KINGSTON",
+          "Warenart_neu": "MEMORY",
+          "Preis_neu": "14,20€",
+          "Verfügbare Menge_neu": 1,
+          "Kompatibilität_neu": "Legion T7-34IMZ5 Desktop (Lenovo) : 90Q8, 90Q9"
+        },
+        {
+          "Teilenummer": "5B20Z45925",
+          "Beschreibung_alt": "Lenovo BDPLANAR i7-10510U8GUHDNvPNOKNAYTdT2L3yA",
+          "Warenart_alt": "SYSTEM BOARDS",
+          "Preis_alt": "46,34€",
+          "Verfügbare Menge_alt": 7,
+          "Kompatibilität_alt": "T14 Gen 1 (type 20S0, 20S1) Laptop (ThinkPad) : 20S0, 20S1\nT15 (type 20S6, 20S7) Laptop (ThinkPad) : 20S7",
+          "Beschreibung_neu": "Lenovo BDPLANAR i7-10510U8GUHDNvPNOKNAYTdT2L3yA",
+          "Warenart_neu": "SYSTEM BOARDS",
+          "Preis_neu": "46,34€",
+          "Verfügbare Menge_neu": 5,
+          "Kompatibilität_neu": "T14 Gen 1 (type 20S0, 20S1) Laptop (ThinkPad) : 20S0, 20S1\nT15 (type 20S6, 20S7) Laptop (ThinkPad) : 20S7"
+        },
+        {
+          "Teilenummer": "01YT397",
+          "Beschreibung_alt": "Drift-1, Ironhide-1 FRU: Planar i5-8365U, vPRO, 8 GB, Intel:AMT=Y, TPM=Y(HW), dTPM=2.0, OS=WIN",
+          "Warenart_alt": "SYSTEM BOARDS",
+          "Preis_alt": "46,48€",
+          "Verfügbare Menge_alt": 56,
+          "Kompatibilität_alt": "T490 (Type 20N2, 20N3) Laptop (ThinkPad) : 20N2, 20N3\nT590 (Type 20N4, 20N5) Laptop (ThinkPad) : 20N4, 20N5",
+          "Beschreibung_neu": "Drift-1, Ironhide-1 FRU: Planar i5-8365U, vPRO, 8 GB, Intel:AMT=Y, TPM=Y(HW), dTPM=2.0, OS=WIN",
+          "Warenart_neu": "SYSTEM BOARDS",
+          "Preis_neu": "46,48€",
+          "Verfügbare Menge_neu": 55,
+          "Kompatibilität_neu": "T490 (Type 20N2, 20N3) Laptop (ThinkPad) : 20N2, 20N3\nT590 (Type 20N4, 20N5) Laptop (ThinkPad) : 20N4, 20N5"
+        },
+        {
+          "Teilenummer": "5CB0S16761",
+          "Beschreibung_alt": "C-Abdeckung mit Tastatur, USA – Englisch, Ohne_Hintergrundbeleuchtung",
+          "Warenart_alt": "C-cover with keyboard",
+          "Preis_alt": "15,82€",
+          "Verfügbare Menge_alt": 30,
+          "Kompatibilität_alt": "S145-15IWL Laptop (ideapad) : 81MV\nS145-15IGM Laptop (ideapad) : 81MX\nS145-15AST Laptop (ideapad) : 81N3\nS145-15API Laptop (ideapad) : 81UT",
+          "Beschreibung_neu": "C-Abdeckung mit Tastatur, USA – Englisch, Ohne_Hintergrundbeleuchtung",
+          "Warenart_neu": "C-cover with keyboard",
+          "Preis_neu": "15,82€",
+          "Verfügbare Menge_neu": 29,
+          "Kompatibilität_neu": "S145-15IWL Laptop (ideapad) : 81MV\nS145-15IGM Laptop (ideapad) : 81MX\nS145-15AST Laptop (ideapad) : 81N3\nS145-15API Laptop (ideapad) : 81UT"
+        },
+        {
+          "Teilenummer": "5D51C33859",
+          "Beschreibung_alt": "Lenovo Go Split Kabellose Tastatur, Norwegisch",
+          "Warenart_alt": "KEYBOARDS EXTERNAL",
+          "Preis_alt": "15,28€",
+          "Verfügbare Menge_alt": 3,
+          "Kompatibilität_alt": NaN,
+          "Beschreibung_neu": "Lenovo Go Split Kabellose Tastatur, Norwegisch",
+          "Warenart_neu": "KEYBOARDS EXTERNAL",
+          "Preis_neu": "15,28€",
+          "Verfügbare Menge_neu": 1,
+          "Kompatibilität_neu": NaN
+        },
+        {
+          "Teilenummer": "5W10V25790",
+          "Beschreibung_alt": "WIRELESS Drahtlos, CMB, FBC, L860 V2 FW",
+          "Warenart_alt": "WIRELESS WAN ADAPTERS",
+          "Preis_alt": "14,17€",
+          "Verfügbare Menge_alt": 35,
+          "Kompatibilität_alt": "Lenovo Magic Bay Studio : 4XC1",
+          "Beschreibung_neu": "WIRELESS Drahtlos, CMB, FBC, L860 V2 FW",
+          "Warenart_neu": "WIRELESS WAN ADAPTERS",
+          "Preis_neu": "14,17€",
+          "Verfügbare Menge_neu": 34,
+          "Kompatibilität_neu": "Lenovo Magic Bay Studio : 4XC1"
+        },
+        {
+          "Teilenummer": "01AX504",
+          "Beschreibung_alt": "Windu Tastatur, IT, CHY BL",
+          "Warenart_alt": "KEYBOARDS INTERNAL",
+          "Preis_alt": "15,35€",
+          "Verfügbare Menge_alt": 12,
+          "Kompatibilität_alt": NaN,
+          "Beschreibung_neu": "Windu Tastatur, IT, CHY BL",
+          "Warenart_neu": "KEYBOARDS INTERNAL",
+          "Preis_neu": "15,35€",
+          "Verfügbare Menge_neu": 11,
+          "Kompatibilität_neu": NaN
+        },
+        {
+          "Teilenummer": "01HW921",
+          "Beschreibung_alt": "6.5mm,active pen,BK,Wacom",
+          "Warenart_alt": "POINTING DEVICES",
+          "Preis_alt": "14,20€",
+          "Verfügbare Menge_alt": 2,
+          "Kompatibilität_alt": "Yoga 370 Laptop (ThinkPad) : 20JH, 20JJ",
+          "Beschreibung_neu": "6.5mm,active pen,BK,Wacom",
+          "Warenart_neu": "POINTING DEVICES",
+          "Preis_neu": "14,20€",
+          "Verfügbare Menge_neu": 1,
+          "Kompatibilität_neu": "Yoga 370 Laptop (ThinkPad) : 20JH, 20JJ"
+        },
+        {
+          "Teilenummer": "01YT418",
+          "Beschreibung_alt": "NOK7-8665,16G,vPROAMT,TPM2,SWG",
+          "Warenart_alt": "SYSTEM BOARDS",
+          "Preis_alt": "46,02€",
+          "Verfügbare Menge_alt": 5,
+          "Kompatibilität_alt": "T490 (Type 20N2, 20N3) Laptop (ThinkPad) : 20N2, 20N3\nT590 (Type 20N4, 20N5) Laptop (ThinkPad) : 20N4, 20N5",
+          "Beschreibung_neu": "NOK7-8665,16G,vPROAMT,TPM2,SWG",
+          "Warenart_neu": "SYSTEM BOARDS",
+          "Preis_neu": "46,02€",
+          "Verfügbare Menge_neu": 4,
+          "Kompatibilität_neu": "T490 (Type 20N2, 20N3) Laptop (ThinkPad) : 20N2, 20N3\nT590 (Type 20N4, 20N5) Laptop (ThinkPad) : 20N4, 20N5"
+        },
+        {
+          "Teilenummer": "02HM956",
+          "Beschreibung_alt": "i7-9750H,N18PG0,NOK,dTPM",
+          "Warenart_alt": "SYSTEM BOARDS",
+          "Preis_alt": "46,96€",
+          "Verfügbare Menge_alt": 3,
+          "Kompatibilität_alt": "X1 Extreme 2nd Gen (Type 20QV, 20QW) Laptop (ThinkPad) : 20QV, 20QW",
+          "Beschreibung_neu": "i7-9750H,N18PG0,NOK,dTPM",
+          "Warenart_neu": "SYSTEM BOARDS",
+          "Preis_neu": "46,96€",
+          "Verfügbare Menge_neu": 2,
+          "Kompatibilität_neu": "X1 Extreme 2nd Gen (Type 20QV, 20QW) Laptop (ThinkPad) : 20QV, 20QW"
+        },
+        {
+          "Teilenummer": "5B20S41727",
+          "Beschreibung_alt": "MBL81MVMBWINI58265U_UMA_0G",
+          "Warenart_alt": "SYSTEM BOARDS",
+          "Preis_alt": "47,96€",
+          "Verfügbare Menge_alt": 6,
+          "Kompatibilität_alt": "S145-15IWL Laptop (ideapad) : 81MV\nV15-IWL Laptop (Lenovo) : 81YE",
+          "Beschreibung_neu": "MBL81MVMBWINI58265U_UMA_0G",
+          "Warenart_neu": "SYSTEM BOARDS",
+          "Preis_neu": "47,96€",
+          "Verfügbare Menge_neu": 5,
+          "Kompatibilität_neu": "S145-15IWL Laptop (ideapad) : 81MV\nV15-IWL Laptop (Lenovo) : 81YE"
+        },
+        {
+          "Teilenummer": "5B20W29465",
+          "Beschreibung_alt": "Lenovo BDPLANAR WIN7-8665,16G,vPROAMT,TPM2,UMA",
+          "Warenart_alt": "SYSTEM BOARDS",
+          "Preis_alt": "46,01€",
+          "Verfügbare Menge_alt": 2,
+          "Kompatibilität_alt": "T490 Type 20Q9, 20QH Laptop (ThinkPad) : 20Q9, 20QH",
+          "Beschreibung_neu": "Lenovo BDPLANAR WIN7-8665,16G,vPROAMT,TPM2,UMA",
+          "Warenart_neu": "SYSTEM BOARDS",
+          "Preis_neu": "46,01€",
+          "Verfügbare Menge_neu": 1,
+          "Kompatibilität_neu": "T490 Type 20Q9, 20QH Laptop (ThinkPad) : 20Q9, 20QH"
+        },
+        {
+          "Teilenummer": "5B20Z45987",
+          "Beschreibung_alt": "Lenovo BDPLANAR i5-10310U 8GUHD VPWIN YAYTdT2nA",
+          "Warenart_alt": "SYSTEM BOARDS",
+          "Preis_alt": "46,16€",
+          "Verfügbare Menge_alt": 2,
+          "Kompatibilität_alt": "T14 Gen 1 (type 20S0, 20S1) Laptop (ThinkPad) : 20S0, 20S1\nT15 (type 20S6, 20S7) Laptop (ThinkPad) : 20S7",
+          "Beschreibung_neu": "Lenovo BDPLANAR i5-10310U 8GUHD VPWIN YAYTdT2nA",
+          "Warenart_neu": "SYSTEM BOARDS",
+          "Preis_neu": "46,16€",
+          "Verfügbare Menge_neu": 1,
+          "Kompatibilität_neu": "T14 Gen 1 (type 20S0, 20S1) Laptop (ThinkPad) : 20S0, 20S1\nT15 (type 20S6, 20S7) Laptop (ThinkPad) : 20S7"
+        },
+        {
+          "Teilenummer": "5B21D65197",
+          "Beschreibung_alt": "i7-1165G7 16G 201NOK NAYdTL3yAB",
+          "Warenart_alt": "SYSTEM BOARDS",
+          "Preis_alt": "46,42€",
+          "Verfügbare Menge_alt": 3,
+          "Kompatibilität_alt": "T14 Gen 2 (Type 20W0, 20W1) Laptop (ThinkPad) : 20W0, 20W1\nT15 Gen 2 (Type 20W4, 20W5) Laptop (ThinkPad) : 20W4, 20W5",
+          "Beschreibung_neu": "i7-1165G7 16G 201NOK NAYdTL3yAB",
+          "Warenart_neu": "SYSTEM BOARDS",
+          "Preis_neu": "46,42€",
+          "Verfügbare Menge_neu": 2,
+          "Kompatibilität_neu": "T14 Gen 2 (Type 20W0, 20W1) Laptop (ThinkPad) : 20W0, 20W1\nT15 Gen 2 (Type 20W4, 20W5) Laptop (ThinkPad) : 20W4, 20W5"
+        },
+        {
+          "Teilenummer": "5B21K59829",
+          "Beschreibung_alt": "i7-1165G7 MX450,WIN,FTPM,N-ABS",
+          "Warenart_alt": "SYSTEM BOARDS",
+          "Preis_alt": "46,28€",
+          "Verfügbare Menge_alt": 2,
+          "Kompatibilität_alt": "E14 Gen 2 (Type 20TA, 20TB) Laptop (ThinkPad) : 20TA",
+          "Beschreibung_neu": "i7-1165G7 MX450,WIN,FTPM,N-ABS",
+          "Warenart_neu": "SYSTEM BOARDS",
+          "Preis_neu": "46,28€",
+          "Verfügbare Menge_neu": 1,
+          "Kompatibilität_neu": "E14 Gen 2 (Type 20TA, 20TB) Laptop (ThinkPad) : 20TA"
+        }
+      ]
+    }
+  }
+}

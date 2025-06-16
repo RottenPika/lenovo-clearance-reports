@@ -12,8 +12,8 @@
 
 ## 📊 Aktuelle Statistiken
 
-- **1 Reports** verfügbar
-- **Letztes Update:** 16.06.2025 07:38:24
+- **2 Reports** verfügbar
+- **Letztes Update:** 16.06.2025 07:39:16
 - **Monitoring:** 24/7 aktiv
 
 ## 🎯 Überwachte Kategorien

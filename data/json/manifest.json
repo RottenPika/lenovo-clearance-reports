@@ -1,7 +1,17 @@
 {
-  "last_updated": "2025-06-16T07:38:24.618529",
-  "total_reports": 1,
+  "last_updated": "2025-06-16T07:39:16.253177",
+  "total_reports": 2,
   "reports": [
+    {
+      "filename": "changes_2025-06-16_073913.json",
+      "timestamp": "2025-06-16_073913",
+      "display_name": "Report vom 16.06.2025 um 07:39",
+      "sheets": [
+        "Entfernte Artikel",
+        "Geänderte Artikel"
+      ],
+      "generated": "2025-06-16T07:39:16.244639"
+    },
     {
       "filename": "changes_2025-06-16_073423.json",
       "timestamp": "2025-06-16_073423",
@@ -9,7 +19,7 @@
       "sheets": [
         "Sheet1"
       ],
-      "generated": "2025-06-16T07:38:24.616581"
+      "generated": "2025-06-16T07:39:16.252268"
     }
   ]
 }
