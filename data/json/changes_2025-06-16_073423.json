@@ -2,37 +2,27 @@
   "metadata": {
     "filename": "changes_2025-06-16_073423.xlsx",
     "timestamp": "2025-06-16_073423",
-    "generated": "2025-06-16T18:28:36.541360",
+    "generated": "2025-06-16T19:33:09.242190",
     "sheets": [
       "Sheet1"
     ]
   },
   "data": {
-    "Sheet1": {
-      "count": 2,
-      "columns": [
-        "Teilenummer",
-        "Beschreibung",
-        "Warenart",
-        "Preis",
-        "Verfügbare Menge"
-      ],
-      "records": [
-        {
-          "Teilenummer": "GPU001",
-          "Beschreibung": "NVIDIA RTX 4060",
-          "Warenart": "Video Card",
-          "Preis": "19,99 €",
-          "Verfügbare Menge": 2
-        },
-        {
-          "Teilenummer": "GPU002",
-          "Beschreibung": "AMD RX 7600",
-          "Warenart": "Video Card",
-          "Preis": "18,50 €",
-          "Verfügbare Menge": 3
-        }
-      ]
-    }
+    "Sheet1": [
+      {
+        "Teilenummer": "GPU001",
+        "Beschreibung": "NVIDIA RTX 4060",
+        "Warenart": "Video Card",
+        "Preis": "19,99 €",
+        "Verfügbare Menge": 2
+      },
+      {
+        "Teilenummer": "GPU002",
+        "Beschreibung": "AMD RX 7600",
+        "Warenart": "Video Card",
+        "Preis": "18,50 €",
+        "Verfügbare Menge": 3
+      }
+    ]
   }
 }

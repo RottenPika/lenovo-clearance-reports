@@ -4,7 +4,7 @@
     "latest_timestamp": "2025-06-16_182028",
     "previous_report": "changes_2025-06-16_073913.xlsx",
     "previous_timestamp": "2025-06-16_073913",
-    "generated_at": "2025-06-16T18:28:36.507704"
+    "generated_at": "2025-06-16T19:33:09.210452"
   },
   "quick_stats": {
     "new_items": 0,
@@ -18,536 +18,214 @@
     "biggest_price_drops": [],
     "new_video_cards": [],
     "dramatic_drops": [],
-    "removed_deals": [
-      {
-        "teilenummer": "5M30Z71653",
-        "name": "Lenovo ARBEITSSPEICHER,8G,DDR4,3600,UDIMM,KINGSTON",
-        "category": "MEMORY",
-        "price": "14,20€",
-        "price_num": 14.2,
-        "quantity": 1
-      },
-      {
-        "teilenummer": "03X7065",
-        "name": "Externe Tastatur, Italienisch",
-        "category": "KEYBOARDS EXTERNAL",
-        "price": "15,26€",
-        "price_num": 15.26,
-        "quantity": 1
-      },
-      {
-        "teilenummer": "00NY411",
-        "name": "Lenovo DISPLAY LGD 14.0 FHD IPS AG",
-        "category": "LCD PANELS",
-        "price": "15,30€",
-        "price_num": 15.3,
-        "quantity": 2
-      },
-      {
-        "teilenummer": "5M11A36110",
-        "name": "C-Abdeckung mit Tastatur, Portugiesisch, Schwarz, Hintergrundbeleuchtung",
-        "category": "C-cover with keyboard",
-        "price": "15,35€",
-        "price_num": 15.35,
-        "quantity": 1
-      }
-    ],
+    "removed_deals": [],
     "cheap_deals": [],
     "quantity_increases": []
   },
   "details": {
+    "new_items": [],
     "removed_items": [
       {
-        "teilenummer": "00NY411",
-        "name": "Lenovo DISPLAY LGD 14.0 FHD IPS AG",
-        "category": "LCD PANELS",
-        "price": "15,30€",
-        "price_num": 15.3,
-        "quantity": 2
+        "Teilenummer": "00NY411",
+        "Beschreibung": "Lenovo DISPLAY LGD 14.0 FHD IPS AG",
+        "Warenart": "LCD PANELS",
+        "Preis": "15,30€",
+        "Verfügbare Menge": 2,
+        "Kompatibilität": "X1 Carbon 4th Gen (Type 20FB, 20FC) Laptop (ThinkPad) : 20FB, 20FC"
       },
       {
-        "teilenummer": "03X7065",
-        "name": "Externe Tastatur, Italienisch",
-        "category": "KEYBOARDS EXTERNAL",
-        "price": "15,26€",
-        "price_num": 15.26,
-        "quantity": 1
+        "Teilenummer": "03X7065",
+        "Beschreibung": "Externe Tastatur, Italienisch",
+        "Warenart": "KEYBOARDS EXTERNAL",
+        "Preis": "15,26€",
+        "Verfügbare Menge": 1,
+        "Kompatibilität": NaN
       },
       {
-        "teilenummer": "5B20S42797",
-        "name": "MB L 81UV NOK R53500U_UMA_4G",
-        "category": "SYSTEM BOARDS",
-        "price": "46,48€",
-        "price_num": 46.48,
-        "quantity": 1
+        "Teilenummer": "5B20S42797",
+        "Beschreibung": "MB L 81UV NOK R53500U_UMA_4G",
+        "Warenart": "SYSTEM BOARDS",
+        "Preis": "46,48€",
+        "Verfügbare Menge": 1,
+        "Kompatibilität": "S145-14API Laptop (ideapad) : 81UV"
       },
       {
-        "teilenummer": "5B20Z45788",
-        "name": "i5-10210U 16G NvpNOK NAYd-TL3YA",
-        "category": "SYSTEM BOARDS",
-        "price": "46,46€",
-        "price_num": 46.46,
-        "quantity": 1
+        "Teilenummer": "5B20Z45788",
+        "Beschreibung": "i5-10210U 16G NvpNOK NAYd-TL3YA",
+        "Warenart": "SYSTEM BOARDS",
+        "Preis": "46,46€",
+        "Verfügbare Menge": 1,
+        "Kompatibilität": "T14s (Type 20T0, 20T1) Laptop (ThinkPad) : 20T0, 20T1\nX13 (Type 20T2, 20T3) Laptop (ThinkPad) : 20T2, 20T3"
       },
       {
-        "teilenummer": "5B20Z45793",
-        "name": "i5-10210U 16G NvpNOK NAYd-TL3NA",
-        "category": "SYSTEM BOARDS",
-        "price": "46,12€",
-        "price_num": 46.12,
-        "quantity": 1
+        "Teilenummer": "5B20Z45793",
+        "Beschreibung": "i5-10210U 16G NvpNOK NAYd-TL3NA",
+        "Warenart": "SYSTEM BOARDS",
+        "Preis": "46,12€",
+        "Verfügbare Menge": 1,
+        "Kompatibilität": "T14s (Type 20T0, 20T1) Laptop (ThinkPad) : 20T0\nX13 (Type 20T2, 20T3) Laptop (ThinkPad) : 20T3"
       },
       {
-        "teilenummer": "5B20Z45858",
-        "name": "i7-10610U 8G vP NOK YAYd-T L3YA",
-        "category": "SYSTEM BOARDS",
-        "price": "46,55€",
-        "price_num": 46.55,
-        "quantity": 1
+        "Teilenummer": "5B20Z45858",
+        "Beschreibung": "i7-10610U 8G vP NOK YAYd-T L3YA",
+        "Warenart": "SYSTEM BOARDS",
+        "Preis": "46,55€",
+        "Verfügbare Menge": 1,
+        "Kompatibilität": "T14s (Type 20T0, 20T1) Laptop (ThinkPad) : 20T1\nX13 (Type 20T2, 20T3) Laptop (ThinkPad) : 20T3"
       },
       {
-        "teilenummer": "5B20Z45898",
-        "name": "Lenovo BDPLANAR i5-10210U8GUHDNvPWINNAYTfT2L3nA",
-        "category": "SYSTEM BOARDS",
-        "price": "46,83€",
-        "price_num": 46.83,
-        "quantity": 1
+        "Teilenummer": "5B20Z45898",
+        "Beschreibung": "Lenovo BDPLANAR i5-10210U8GUHDNvPWINNAYTfT2L3nA",
+        "Warenart": "SYSTEM BOARDS",
+        "Preis": "46,83€",
+        "Verfügbare Menge": 1,
+        "Kompatibilität": "T14 Gen 1 (type 20S0, 20S1) Laptop (ThinkPad) : 20S0, 20S1\nT15 (type 20S6, 20S7) Laptop (ThinkPad) : 20S6, 20S7"
       },
       {
-        "teilenummer": "5B20Z45900",
-        "name": "i5-10210U8GUHDNvPNOKNAYTdT2L3nA",
-        "category": "SYSTEM BOARDS",
-        "price": "46,62€",
-        "price_num": 46.62,
-        "quantity": 1
+        "Teilenummer": "5B20Z45900",
+        "Beschreibung": "i5-10210U8GUHDNvPNOKNAYTdT2L3nA",
+        "Warenart": "SYSTEM BOARDS",
+        "Preis": "46,62€",
+        "Verfügbare Menge": 1,
+        "Kompatibilität": "T15 (type 20S6, 20S7) Laptop (ThinkPad) : 20S6, 20S7"
       },
       {
-        "teilenummer": "5B20Z45925",
-        "name": "Lenovo BDPLANAR i7-10510U8GUHDNvPNOKNAYTdT2L3yA",
-        "category": "SYSTEM BOARDS",
-        "price": "46,34€",
-        "price_num": 46.34,
-        "quantity": 5
+        "Teilenummer": "5B20Z45925",
+        "Beschreibung": "Lenovo BDPLANAR i7-10510U8GUHDNvPNOKNAYTdT2L3yA",
+        "Warenart": "SYSTEM BOARDS",
+        "Preis": "46,34€",
+        "Verfügbare Menge": 5,
+        "Kompatibilität": "T14 Gen 1 (type 20S0, 20S1) Laptop (ThinkPad) : 20S0, 20S1\nT15 (type 20S6, 20S7) Laptop (ThinkPad) : 20S7"
       },
       {
-        "teilenummer": "5B20Z45987",
-        "name": "Lenovo BDPLANAR i5-10310U 8GUHD VPWIN YAYTdT2nA",
-        "category": "SYSTEM BOARDS",
-        "price": "46,16€",
-        "price_num": 46.16,
-        "quantity": 1
+        "Teilenummer": "5B20Z45987",
+        "Beschreibung": "Lenovo BDPLANAR i5-10310U 8GUHD VPWIN YAYTdT2nA",
+        "Warenart": "SYSTEM BOARDS",
+        "Preis": "46,16€",
+        "Verfügbare Menge": 1,
+        "Kompatibilität": "T14 Gen 1 (type 20S0, 20S1) Laptop (ThinkPad) : 20S0, 20S1\nT15 (type 20S6, 20S7) Laptop (ThinkPad) : 20S7"
       },
       {
-        "teilenummer": "5B20Z74899",
-        "name": "MBL20V3WINI710750H_GTX1650_4G",
-        "category": "SYSTEM BOARDS",
-        "price": "46,04€",
-        "price_num": 46.04,
-        "quantity": 1
+        "Teilenummer": "5B20Z74899",
+        "Beschreibung": "MBL20V3WINI710750H_GTX1650_4G",
+        "Warenart": "SYSTEM BOARDS",
+        "Preis": "46,04€",
+        "Verfügbare Menge": 1,
+        "Kompatibilität": "Lenovo ThinkBook 15p IMH : 20V3"
       },
       {
-        "teilenummer": "5B21B88642",
-        "name": "FL i5-1135G7 8G NOK NAYdTL3yAB",
-        "category": "SYSTEM BOARDS",
-        "price": "46,65€",
-        "price_num": 46.65,
-        "quantity": 1
+        "Teilenummer": "5B21B88642",
+        "Beschreibung": "FL i5-1135G7 8G NOK NAYdTL3yAB",
+        "Warenart": "SYSTEM BOARDS",
+        "Preis": "46,65€",
+        "Verfügbare Menge": 1,
+        "Kompatibilität": "T14 Gen 2 (Type 20W0, 20W1) Laptop (ThinkPad) : 20W0, 20W1\nT15 Gen 2 (Type 20W4, 20W5) Laptop (ThinkPad) : 20W4, 20W5"
       },
       {
-        "teilenummer": "5B21B88750",
-        "name": "Lenovo BDPLANAR FLi7-1185G7 8G vP WINYAYdTL3yAB",
-        "category": "SYSTEM BOARDS",
-        "price": "46,60€",
-        "price_num": 46.6,
-        "quantity": 3
+        "Teilenummer": "5B21B88750",
+        "Beschreibung": "Lenovo BDPLANAR FLi7-1185G7 8G vP WINYAYdTL3yAB",
+        "Warenart": "SYSTEM BOARDS",
+        "Preis": "46,60€",
+        "Verfügbare Menge": 3,
+        "Kompatibilität": "T14 Gen 2 (Type 20W0, 20W1) Laptop (ThinkPad) : 20W0, 20W1\nT15 Gen 2 (Type 20W4, 20W5) Laptop (ThinkPad) : 20W4, 20W5"
       },
       {
-        "teilenummer": "5B21C22476",
-        "name": "MBC21A2 NOKR757UMA8G_SD WW RPMC",
-        "category": "SYSTEM BOARDS",
-        "price": "46,71€",
-        "price_num": 46.71,
-        "quantity": 1
+        "Teilenummer": "5B21C22476",
+        "Beschreibung": "MBC21A2 NOKR757UMA8G_SD WW RPMC",
+        "Warenart": "SYSTEM BOARDS",
+        "Preis": "46,71€",
+        "Verfügbare Menge": 1,
+        "Kompatibilität": "ThinkBook 14 G3 ACL Laptop : 21A2"
       },
       {
-        "teilenummer": "5B21C40339",
-        "name": "i5-10210U8GWL,WIN,NA,YdT,NAB",
-        "category": "SYSTEM BOARDS",
-        "price": "46,48€",
-        "price_num": 46.48,
-        "quantity": 2
+        "Teilenummer": "5B21C40339",
+        "Beschreibung": "i5-10210U8GWL,WIN,NA,YdT,NAB",
+        "Warenart": "SYSTEM BOARDS",
+        "Preis": "46,48€",
+        "Verfügbare Menge": 2,
+        "Kompatibilität": "X13 Yoga Gen 1 (Type 20SX, 20SY) Laptop (ThinkPad) : 20SY"
       },
       {
-        "teilenummer": "5B21C69314",
-        "name": "Lenovo BDPLANAR i7-10610U vP16GNOK YAYTdT2 L3yA",
-        "category": "SYSTEM BOARDS",
-        "price": "47,10€",
-        "price_num": 47.1,
-        "quantity": 2
+        "Teilenummer": "5B21C69314",
+        "Beschreibung": "Lenovo BDPLANAR i7-10610U vP16GNOK YAYTdT2 L3yA",
+        "Warenart": "SYSTEM BOARDS",
+        "Preis": "47,10€",
+        "Verfügbare Menge": 2,
+        "Kompatibilität": "X1 Carbon 8th Gen - (Type 20U9, 20UA) Laptop (ThinkPad) : 20U9, 20UA\nX1 Yoga 5th Gen (Type 20UB, 20UC) Laptop (ThinkPad) : 20UB, 20UC"
       },
       {
-        "teilenummer": "5B21D65197",
-        "name": "i7-1165G7 16G 201NOK NAYdTL3yAB",
-        "category": "SYSTEM BOARDS",
-        "price": "46,42€",
-        "price_num": 46.42,
-        "quantity": 2
+        "Teilenummer": "5B21D65197",
+        "Beschreibung": "i7-1165G7 16G 201NOK NAYdTL3yAB",
+        "Warenart": "SYSTEM BOARDS",
+        "Preis": "46,42€",
+        "Verfügbare Menge": 2,
+        "Kompatibilität": "T14 Gen 2 (Type 20W0, 20W1) Laptop (ThinkPad) : 20W0, 20W1\nT15 Gen 2 (Type 20W4, 20W5) Laptop (ThinkPad) : 20W4, 20W5"
       },
       {
-        "teilenummer": "5B21D93016",
-        "name": "i5-1135G7 8G 201 NOK NAYdTL3yAB",
-        "category": "SYSTEM BOARDS",
-        "price": "46,60€",
-        "price_num": 46.6,
-        "quantity": 1
+        "Teilenummer": "5B21D93016",
+        "Beschreibung": "i5-1135G7 8G 201 NOK NAYdTL3yAB",
+        "Warenart": "SYSTEM BOARDS",
+        "Preis": "46,60€",
+        "Verfügbare Menge": 1,
+        "Kompatibilität": "P14s Gen 2 (Type 20VX, 20VY) Laptop (ThinkPad) : 20VX, 20VY\nP15s Gen 2 (Type 20W6, 20W7) Laptop (ThinkPad) : 20W6, 20W7"
       },
       {
-        "teilenummer": "5B21H19744",
-        "name": "i5-1135G7 8G 210NOKNAYdTL3yAB",
-        "category": "SYSTEM BOARDS",
-        "price": "46,64€",
-        "price_num": 46.64,
-        "quantity": 1
+        "Teilenummer": "5B21H19744",
+        "Beschreibung": "i5-1135G7 8G 210NOKNAYdTL3yAB",
+        "Warenart": "SYSTEM BOARDS",
+        "Preis": "46,64€",
+        "Verfügbare Menge": 1,
+        "Kompatibilität": "X13 Gen 2 (Type 20WK, 20WL) Laptop (ThinkPad) : 20WK, 20WL\nT14s Gen 2 (Type 20WM, 20WN) Laptop (ThinkPad) : 20WM, 20WN"
       },
       {
-        "teilenummer": "5B21K59829",
-        "name": "i7-1165G7 MX450,WIN,FTPM,N-ABS",
-        "category": "SYSTEM BOARDS",
-        "price": "46,28€",
-        "price_num": 46.28,
-        "quantity": 1
+        "Teilenummer": "5B21K59829",
+        "Beschreibung": "i7-1165G7 MX450,WIN,FTPM,N-ABS",
+        "Warenart": "SYSTEM BOARDS",
+        "Preis": "46,28€",
+        "Verfügbare Menge": 1,
+        "Kompatibilität": "E14 Gen 2 (Type 20TA, 20TB) Laptop (ThinkPad) : 20TA"
       },
       {
-        "teilenummer": "5B21K59864",
-        "name": "Lenovo BDPLANAR i7-1165G7 IG EBS WINyTPM(HW)yAB",
-        "category": "SYSTEM BOARDS",
-        "price": "46,81€",
-        "price_num": 46.81,
-        "quantity": 1
+        "Teilenummer": "5B21K59864",
+        "Beschreibung": "Lenovo BDPLANAR i7-1165G7 IG EBS WINyTPM(HW)yAB",
+        "Warenart": "SYSTEM BOARDS",
+        "Preis": "46,81€",
+        "Verfügbare Menge": 1,
+        "Kompatibilität": "E15 Gen 2 (Type 20TD, 20TE) Laptop (ThinkPad) : 20TD, 20TE"
       },
       {
-        "teilenummer": "5B21K93213",
-        "name": "WIN,i5-1135G7,16G,DTPM,nAB",
-        "category": "SYSTEM BOARDS",
-        "price": "46,27€",
-        "price_num": 46.27,
-        "quantity": 2
+        "Teilenummer": "5B21K93213",
+        "Beschreibung": "WIN,i5-1135G7,16G,DTPM,nAB",
+        "Warenart": "SYSTEM BOARDS",
+        "Preis": "46,27€",
+        "Verfügbare Menge": 2,
+        "Kompatibilität": "X1 Carbon 9th Gen (Type 20XW, 20XX) Laptop (ThinkPad) : 20XW, 20XX\nX1 Yoga 6th Gen (Type 20XY, 20Y0) Laptop (ThinkPad) : 20XY, 20Y0"
       },
       {
-        "teilenummer": "5B21K93262",
-        "name": "WIN,i5-1145G7,8G,AMT,yTPM2,nAB",
-        "category": "SYSTEM BOARDS",
-        "price": "46,98€",
-        "price_num": 46.98,
-        "quantity": 1
+        "Teilenummer": "5B21K93262",
+        "Beschreibung": "WIN,i5-1145G7,8G,AMT,yTPM2,nAB",
+        "Warenart": "SYSTEM BOARDS",
+        "Preis": "46,98€",
+        "Verfügbare Menge": 1,
+        "Kompatibilität": "X1 Carbon 9th Gen (Type 20XW, 20XX) Laptop (ThinkPad) : 20XX\nX1 Yoga 6th Gen (Type 20XY, 20Y0) Laptop (ThinkPad) : 20Y0"
       },
       {
-        "teilenummer": "5M11A36110",
-        "name": "C-Abdeckung mit Tastatur, Portugiesisch, Schwarz, Hintergrundbeleuchtung",
-        "category": "C-cover with keyboard",
-        "price": "15,35€",
-        "price_num": 15.35,
-        "quantity": 1
+        "Teilenummer": "5M11A36110",
+        "Beschreibung": "C-Abdeckung mit Tastatur, Portugiesisch, Schwarz, Hintergrundbeleuchtung",
+        "Warenart": "C-cover with keyboard",
+        "Preis": "15,35€",
+        "Verfügbare Menge": 1,
+        "Kompatibilität": "E15 Gen 2 (Type 20TD, 20TE) Laptop (ThinkPad) : 20TD, 20TE"
       },
       {
-        "teilenummer": "5M30Z71653",
-        "name": "Lenovo ARBEITSSPEICHER,8G,DDR4,3600,UDIMM,KINGSTON",
-        "category": "MEMORY",
-        "price": "14,20€",
-        "price_num": 14.2,
-        "quantity": 1
+        "Teilenummer": "5M30Z71653",
+        "Beschreibung": "Lenovo ARBEITSSPEICHER,8G,DDR4,3600,UDIMM,KINGSTON",
+        "Warenart": "MEMORY",
+        "Preis": "14,20€",
+        "Verfügbare Menge": 1,
+        "Kompatibilität": "Legion T7-34IMZ5 Desktop (Lenovo) : 90Q8, 90Q9"
       }
     ],
-    "changed_items": [
-      {
-        "teilenummer": "01YR210",
-        "name": "WIN, i7-8550U, 16 GB, TPM2",
-        "category": "SYSTEM BOARDS",
-        "changes": {
-          "quantity": {
-            "old": 101,
-            "new": 99,
-            "change": -2
-          }
-        }
-      },
-      {
-        "teilenummer": "5B21C15265",
-        "name": "Lenovo BDPLANAR WIN,i5-8265U,16G,JP,dTPM",
-        "category": "SYSTEM BOARDS",
-        "changes": {
-          "quantity": {
-            "old": 24,
-            "new": 21,
-            "change": -3
-          }
-        }
-      },
-      {
-        "teilenummer": "00PC743",
-        "name": "FRU, 100-240 V Wechselstrom, 500 W 92 % PSU",
-        "category": "POWER SUPPLIES INTERNAL",
-        "changes": {
-          "quantity": {
-            "old": 19,
-            "new": 18,
-            "change": -1
-          }
-        }
-      },
-      {
-        "teilenummer": "01AY364",
-        "name": "6.820, 4 GB, WIN, N-AMT, Y-TPM, N-RA",
-        "category": "SYSTEM BOARDS",
-        "changes": {
-          "quantity": {
-            "old": 6,
-            "new": 5,
-            "change": -1
-          }
-        }
-      },
-      {
-        "teilenummer": "02HL538",
-        "name": "C-Cover with keyboard,Switzerland,Black,Backlight",
-        "category": "C-cover with keyboard",
-        "changes": {
-          "quantity": {
-            "old": 66,
-            "new": 65,
-            "change": -1
-          }
-        }
-      },
-      {
-        "teilenummer": "5B21H70697",
-        "name": "MB L82SFNOKI51235UMX5502G16G RM",
-        "category": "SYSTEM BOARDS",
-        "changes": {
-          "quantity": {
-            "old": 13,
-            "new": 12,
-            "change": -1
-          }
-        }
-      },
-      {
-        "teilenummer": "01YT397",
-        "name": "Drift-1, Ironhide-1 FRU: Planar i5-8365U, vPRO, 8 GB, Intel:AMT=Y, TPM=Y(HW), dTPM=2.0, OS=WIN",
-        "category": "SYSTEM BOARDS",
-        "changes": {
-          "quantity": {
-            "old": 55,
-            "new": 50,
-            "change": -5
-          }
-        }
-      },
-      {
-        "teilenummer": "5B20M60560",
-        "name": "MB W 80TL WIN I3-6006U UMA4GNFP",
-        "category": "SYSTEM BOARDS",
-        "changes": {
-          "quantity": {
-            "old": 5,
-            "new": 3,
-            "change": -2
-          }
-        }
-      },
-      {
-        "teilenummer": "5B20X01176",
-        "name": "Lenovo BDPLANAR i7-8550U,UHDG620,16GB,NOK,YN",
-        "category": "SYSTEM BOARDS",
-        "changes": {
-          "quantity": {
-            "old": 3,
-            "new": 2,
-            "change": -1
-          }
-        }
-      },
-      {
-        "teilenummer": "5B20Z45850",
-        "name": "Lenovo BDPLANAR i5-10310U 16G vPWIN YAYd-T L3NA",
-        "category": "SYSTEM BOARDS",
-        "changes": {
-          "quantity": {
-            "old": 5,
-            "new": 3,
-            "change": -2
-          }
-        }
-      },
-      {
-        "teilenummer": "5CB0Z21011",
-        "name": "C-Abdeckung mit Tastatur, Deutsch, Hintergrundbeleuchtung",
-        "category": "C-cover with keyboard",
-        "changes": {
-          "quantity": {
-            "old": 30,
-            "new": 29,
-            "change": -1
-          }
-        }
-      },
-      {
-        "teilenummer": "5M10Y75556",
-        "name": "Lenovo LCD-Modul, 13,3\", FHD, Multitouch, antireflexbeschichtet, schmutzabweisend, IPS, 300 cd/m², mit Infrarotkamera",
-        "category": "LCD ASSEMBLIES",
-        "changes": {
-          "quantity": {
-            "old": 26,
-            "new": 16,
-            "change": -10
-          }
-        }
-      },
-      {
-        "teilenummer": "01HY919",
-        "name": "C-Abdeckung mit Tastatur, Englisch, Schwarz, Hintergrundbeleuchtung",
-        "category": "C-cover with keyboard",
-        "changes": {
-          "quantity": {
-            "old": 3,
-            "new": 2,
-            "change": -1
-          }
-        }
-      },
-      {
-        "teilenummer": "01LV918",
-        "name": "WIN, i7-6600U, vPro, 8G, AMT, TPM",
-        "category": "SYSTEM BOARDS",
-        "changes": {
-          "quantity": {
-            "old": 3,
-            "new": 2,
-            "change": -1
-          }
-        }
-      },
-      {
-        "teilenummer": "02HL400",
-        "name": "Lenovo BDPLANAR i5-7300,HD,WIN,TPM2=Y,AMT=Y",
-        "category": "SYSTEM BOARDS",
-        "changes": {
-          "quantity": {
-            "old": 5,
-            "new": 3,
-            "change": -2
-          }
-        }
-      },
-      {
-        "teilenummer": "5B20S72227",
-        "name": "Lenovo BDPLANAR FruB FLBL i7IG,WIN YTPM(HW)",
-        "category": "SYSTEM BOARDS",
-        "changes": {
-          "quantity": {
-            "old": 8,
-            "new": 7,
-            "change": -1
-          }
-        }
-      },
-      {
-        "teilenummer": "5B20S72231",
-        "name": "FBLB i5 RX640,NOK,Y-TPM(FW)",
-        "category": "SYSTEM BOARDS",
-        "changes": {
-          "quantity": {
-            "old": 2,
-            "new": 1,
-            "change": -1
-          }
-        }
-      },
-      {
-        "teilenummer": "5B20Z66692",
-        "name": "Lenovo BDPLANAR MB W 82GJ WIN 3015E UMA 4G 64G",
-        "category": "SYSTEM BOARDS",
-        "changes": {
-          "quantity": {
-            "old": 7,
-            "new": 5,
-            "change": -2
-          }
-        }
-      },
-      {
-        "teilenummer": "5B21B33128",
-        "name": "Lenovo BDPLANAR MB W 82HS WIN I71165G7 DIS2G16G",
-        "category": "SYSTEM BOARDS",
-        "changes": {
-          "quantity": {
-            "old": 2,
-            "new": 1,
-            "change": -1
-          }
-        }
-      },
-      {
-        "teilenummer": "5B21B35365",
-        "name": "Lenovo BDPLANAR i5-8250U NVP,YT,WIN",
-        "category": "SYSTEM BOARDS",
-        "changes": {
-          "quantity": {
-            "old": 33,
-            "new": 32,
-            "change": -1
-          }
-        }
-      },
-      {
-        "teilenummer": "5B21B63567",
-        "name": "Lenovo BDPLANAR MB C 82CD NOK A49120C UMA 4G32G",
-        "category": "SYSTEM BOARDS",
-        "changes": {
-          "quantity": {
-            "old": 203,
-            "new": 202,
-            "change": -1
-          }
-        }
-      },
-      {
-        "teilenummer": "5B21H15837",
-        "name": "i5-1135G7 8G 201 WIN NAYdTL3nAB",
-        "category": "SYSTEM BOARDS",
-        "changes": {
-          "quantity": {
-            "old": 6,
-            "new": 3,
-            "change": -3
-          }
-        }
-      },
-      {
-        "teilenummer": "5CB0Y85502",
-        "name": "C-Abdeckung mit Tastatur, Französisch, grau, Hintergrundbeleuchtung, Fingerabdruck",
-        "category": "C-cover with keyboard",
-        "changes": {
-          "quantity": {
-            "old": 5,
-            "new": 4,
-            "change": -1
-          }
-        }
-      },
-      {
-        "teilenummer": "5M11A35069",
-        "name": "C-Abdeckung mit Tastatur, Belgisch, Schwarz, Hintergrundbeleuchtung, Fingerabdruck",
-        "category": "C-cover with keyboard",
-        "changes": {
-          "quantity": {
-            "old": 3,
-            "new": 2,
-            "change": -1
-          }
-        }
-      }
-    ],
-    "new_items": []
+    "changed_items": []
   }
 }

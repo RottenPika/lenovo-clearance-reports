@@ -1,42 +1,37 @@
-# Lenovo Clearance Dashboard V2 Final - Smart Notifications
+# Lenovo Clearance Dashboard V3 - Latest First
 
 🎯 **Live Dashboard:** [rottenpika.github.io/lenovo-clearance-reports](https://rottenpika.github.io/lenovo-clearance-reports/)
 
-## 🚀 Final Features
+## 🚀 V3 Features
 
-### 📊 Instant Change Overview
-- **No clicks needed** - See all changes immediately on page load
+### 📊 Latest First Design
+- **Default view shows only the latest changes** - No clutter from old reports
+- **Clean, focused interface** - See what's new immediately
 - **Quick stats** - New items, removed items, changed items, price drops at a glance
-- **Clickable stats** - Click on numbers to jump to detailed sections
 
-### 🔔 Smart Telegram Notifications
-- **Only when changes occur** - No spam notifications
-- **Summary of changes** with key highlights
-- **Direct links** to view details on website
-- **Top deals** included in notifications
+### 📅 History Browser
+- **Elegant timeline view** - Browse all historical reports by date
+- **One-click access** - View any historical report instantly
+- **Visual indicators** - Easily identify which report is current
+- **Grouped by date** - Reports organized chronologically
 
-### ✨ Enhanced Highlights Section
+### ✨ Enhanced Highlights
 - 📉 **Biggest Price Drops** - Top price reductions with percentages
 - 💰 **Cheap Deals** - All items under 20€ 
 - ❌ **Removed Deals** - Good deals that are no longer available
 - 📈 **Stock Increases** - Items with significant quantity increases
 
-### 🔍 Detailed Sections
-- **Concrete Item Lists** - See exactly which items changed
-- **Full Details** - Part numbers, categories, prices, quantities
-- **Change Indicators** - Clear visualization of what changed
-- **Searchable & Filterable** - Find specific items quickly
+### 🔍 Smart Data Management
+- **Optimized storage** - Only recent reports kept as JSON
+- **Fast loading** - Latest data loads immediately
+- **Scalable** - Can handle months of historical data
 
-### 📈 Statistics
-- **3 Reports** tracked
-- **Last Update:** 16.06.2025 18:28:36
-- **Monitoring:** Active 24/7 with smart notifications
+## 📈 Statistics
 
-## 🎯 What You Get
-- **Dashboard Updates** - See changes instantly
-- **Smart Alerts** - Only when something actually changes
-- **Concrete Details** - Not just numbers, but actual items
-- **Zero Spam** - No unnecessary notifications
+- **Total Reports:** 3
+- **Last Updated:** 16.06.2025 19:33
+- **Data Since:** Report vom 16.06.2025 um 07:34
 
 ---
-*Powered by Lenovo Clearance Monitor V2 Final - Smart Notifications*
+
+*Automatic updates every 30 seconds when monitoring is active*
