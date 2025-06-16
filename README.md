@@ -1,30 +1,26 @@
-# Lenovo Clearance Dashboard V2 - Instant Overview
+# Lenovo Clearance Reports - Interactive Dashboard
 
 🎯 **Live Dashboard:** [rottenpika.github.io/lenovo-clearance-reports](https://rottenpika.github.io/lenovo-clearance-reports/)
 
-## 🚀 New Features in V2
+## 🚀 Features
 
-### 📊 Instant Change Overview
-- **No clicks needed** - See all changes immediately on page load
-- **Quick stats** - New items, removed items, changed items, price drops at a glance
-- **Highlights** - Biggest price drops, new video cards, dramatic deals automatically featured
-- **Smart summaries** - Compares latest two reports automatically
+- 📊 **Interaktive Datentabellen** mit Sortierung, Filterung und Suche
+- 📱 **Responsive Design** für Desktop und Mobile
+- 🔄 **Automatische Updates** alle 5 Minuten
+- 📈 **Multi-Sheet Ansicht** (Neue, Geänderte, Entfernte Artikel)
+- ⚡ **Moderne Web-Technologie** ohne Downloads nötig
 
-### ✨ Highlights Section
-- 💥 **Dramatic Drops** - Video cards from >100€ to <20€
-- 🆕 **New Deals** - Latest video cards under 20€
-- 📉 **Biggest Savings** - Top price reductions across all categories
-- ❌ **Expired Deals** - Know what's no longer available
+## 📊 Aktuelle Statistiken
 
-### 📈 Statistics
-- **2 Reports** tracked
-- **Last Update:** 16.06.2025 08:19:57
-- **Monitoring:** Active 24/7
+- **2 Reports** verfügbar
+- **Letztes Update:** 16.06.2025 08:21:28
+- **Monitoring:** 24/7 aktiv
 
-## 🎯 What's Monitored
-- Video Cards under 20€ (instant Telegram alerts)
-- Dramatic price drops (>100€ → <20€)
-- All Lenovo Clearance Sale changes
+## 🎯 Überwachte Kategorien
+
+- 💥 **Video Cards unter 20€** (Sofort-Benachrichtigung)
+- 📉 **Dramatische Preisfälle** (>100€ → <20€)
+- 🔄 **Alle Änderungen** im Lenovo Clearance Sale
 
 ---
-*Powered by Lenovo Clearance Monitor V2*
+*Powered by: Lenovo Clearance Monitor | Automatisch generiert*
