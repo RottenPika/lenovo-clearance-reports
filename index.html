@@ -42,7 +42,6 @@
             opacity: 0.9;
         }
         
-        /* Change Overview Section */
         .change-overview {
             padding: 40px;
             background: white;
@@ -65,7 +64,6 @@
             font-size: 1.1em;
         }
         
-        /* Quick Stats Grid */
         .quick-stats-grid {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
@@ -80,8 +78,6 @@
             text-align: center;
             box-shadow: 0 2px 8px rgba(0,0,0,0.1);
             transition: all 0.3s ease;
-            position: relative;
-            overflow: hidden;
         }
         
         .stat-card:hover {
@@ -125,7 +121,6 @@
             font-size: 1.1em;
         }
         
-        /* Highlights Section */
         .highlights-section {
             margin-bottom: 40px;
         }
@@ -210,7 +205,6 @@
             font-size: 0.9em;
         }
         
-        /* Report Browser Section */
         .report-browser {
             padding: 40px;
             background: #f8f9fa;
@@ -228,7 +222,6 @@
             flex-wrap: wrap;
         }
         
-        /* Empty State */
         .empty-state {
             text-align: center;
             padding: 60px;
@@ -241,7 +234,6 @@
             opacity: 0.5;
         }
         
-        /* Loading States */
         .loading {
             text-align: center;
             padding: 60px;
@@ -264,7 +256,14 @@
             100% { transform: rotate(360deg); }
         }
         
-        /* Responsive */
+        .error {
+            background: #ffe6e6;
+            color: #cc0000;
+            padding: 20px;
+            border-radius: 8px;
+            margin: 20px 0;
+        }
+        
         @media (max-width: 768px) {
             .header {
                 padding: 20px;
@@ -293,7 +292,6 @@
             }
         }
         
-        /* Tabs and Table styles from V1 */
         .tabs {
             display: flex;
             gap: 5px;
@@ -334,7 +332,6 @@
             <p>Sofortiger Überblick über alle Änderungen - ohne Klicks!</p>
         </div>
         
-        <!-- NEW: Change Overview Section -->
         <div class="change-overview">
             <div class="overview-header">
                 <h2>📊 Aktuelle Änderungen</h2>
@@ -349,7 +346,6 @@
             </div>
             
             <div id="summary-content" style="display: none;">
-                <!-- Quick Stats -->
                 <div class="quick-stats-grid">
                     <div class="stat-card new">
                         <div class="stat-icon">🆕</div>
@@ -376,7 +372,6 @@
                     </div>
                 </div>
                 
-                <!-- Highlights -->
                 <div class="highlights-section">
                     <h2>✨ Highlights</h2>
                     <div class="highlights-grid" id="highlights-grid">
@@ -390,9 +385,13 @@
                 <h3>Willkommen beim Lenovo Clearance Dashboard</h3>
                 <p>Noch keine Änderungen verfügbar. Die Überwachung beginnt mit dem zweiten Report.</p>
             </div>
+            
+            <div id="error-state" class="error" style="display: none;">
+                <h3>⚠️ Fehler beim Laden</h3>
+                <p id="error-message">Unbekannter Fehler</p>
+            </div>
         </div>
         
-        <!-- Report Browser Section (from V1) -->
         <div class="report-browser">
             <h2>📁 Detaillierte Report-Analyse</h2>
             <div class="controls">

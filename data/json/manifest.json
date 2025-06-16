@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-16T08:10:53.843243",
+  "last_updated": "2025-06-16T08:19:57.769443",
   "total_reports": 2,
   "reports": [
     {
@@ -10,7 +10,7 @@
         "Entfernte Artikel",
         "Geänderte Artikel"
       ],
-      "generated": "2025-06-16T08:10:53.831284"
+      "generated": "2025-06-16T08:19:57.758608"
     },
     {
       "filename": "changes_2025-06-16_073423.json",
@@ -19,7 +19,7 @@
       "sheets": [
         "Sheet1"
       ],
-      "generated": "2025-06-16T08:10:53.841995"
+      "generated": "2025-06-16T08:19:57.768378"
     }
   ]
 }
