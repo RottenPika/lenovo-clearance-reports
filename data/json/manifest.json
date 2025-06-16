@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-16T18:26:51.407804",
+  "last_updated": "2025-06-16T18:28:36.542065",
   "total_reports": 3,
   "reports": [
     {
@@ -10,7 +10,7 @@
         "Entfernte Artikel",
         "Geänderte Artikel"
       ],
-      "generated": "2025-06-16T18:26:51.388472"
+      "generated": "2025-06-16T18:28:36.523351"
     },
     {
       "filename": "changes_2025-06-16_073913.json",
@@ -20,7 +20,7 @@
         "Entfernte Artikel",
         "Geänderte Artikel"
       ],
-      "generated": "2025-06-16T18:26:51.400859"
+      "generated": "2025-06-16T18:28:36.535427"
     },
     {
       "filename": "changes_2025-06-16_073423.json",
@@ -29,7 +29,7 @@
       "sheets": [
         "Sheet1"
       ],
-      "generated": "2025-06-16T18:26:51.407051"
+      "generated": "2025-06-16T18:28:36.541360"
     }
   ]
 }
